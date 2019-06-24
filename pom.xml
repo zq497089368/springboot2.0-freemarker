@@ -6,7 +6,7 @@
     <groupId>com.zq</groupId>
     <artifactId>springboot2.0-freemarker</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <!-- aasg -->
+    <!-- aasgsgklsg -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
